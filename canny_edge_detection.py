@@ -29,7 +29,7 @@ if __name__ == "__main__":
     canny_obj = CannyEdge("D:/Projects/canny/scr/data/test", "smile_cat.jpg", "D:/Projects/canny/scr/data/test")
     image = canny_obj.image
     image2 = CannyEdge.image.copy()
-    gray, edge = canny_obj.contouring(False)
+    gray, edge = canny_obj.contouring()
 
     _, thresh = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
     adaptive_threshold= cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
