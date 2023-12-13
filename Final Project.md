@@ -52,29 +52,3 @@ Perform two-dimensional tracking for simulated response of the structure; Use un
 
 ![](scr/final_project/Aspose.Words.28e5e46a-348c-4096-ae85-1252b707b287.010.jpeg)
 
-Groups  
-
-
-
-||Student ID |Name |**Group**  |
-| :- | - | - | - |
-|1 |2021-27091 |박시형 |Group 2 |
-|2 |2022-20210 |우윤철 |Group 5 |
-|3 |2022-21368 |송태용 |Group 4 |
-|4 |2022-22067 |이상원 |Group 6 |
-|5 |2022-28438 |허선영 |Group 1 |
-|6 |2022-32002 |박철홍 |Group 4 |
-|7 |2022-39575 |조형곤 |Group 2 |
-|8 |2023-20207 |이관우 |Group 6 |
-|9 |2023-22498 |정동 |Group 1 |
-|10 |2023-22785 |유병희 |Group 4 |
-|11 |2023-26075 |권상오 |Group 5 |
-|12 |2023-26789 |김찬규 |Group 6 |
-|13 |2023-27334 |김의현 |Group 1 |
-|14 |2023-29158 |이은성 |Group 3 |
-|15 |2023-31531 |박성용 |Group 3 |
-|16 |2023-31696 |김진홍 |Group 5 |
-|17 |2023-35893 |노주연 |Group 3 |
-|18 |2023-36854 |김승현 |Group 6 |
-|19 |2023-72161 |이상빈 |Group 2 |
-

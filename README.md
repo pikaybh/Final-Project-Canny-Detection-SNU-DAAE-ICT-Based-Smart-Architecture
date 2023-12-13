@@ -22,7 +22,7 @@ Change working directory to `Canny` repository.
 cd Canny
 ```
 
-Run `__main__.py`.
+Run [`__main__.py`](__main__.py).
 
 ```bash
 python .
@@ -55,4 +55,4 @@ Test image of [`scr/data/test/smile_cat.jpg`](scr/data/test/smile_cat.jpg).
 
 [B.H.Yoo](mailto:pikaybh@snu.ac.kr)
 
-<p style="color:grey">Seoul National University Construction & Management Lab.</p>
+<p style="color:gray"><i>Seoul National University Construction & Management Lab.</i></p>
