@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Final project for the Seoul National University Departmepartment of Architecture & Architectural Engineering ICT-Based Smar Architecture(001).
+Final project for the Seoul National University Departmepartment of Architecture & Architectural Engineering ICT-Based Smart Architecture(001).
 
 Crack detecting using canny edge detection.
 
@@ -30,7 +30,7 @@ python .
 
 ## Results
 
-Test image of `scr/data/test/smile_cat.jpg`.
+Test image of [`scr/data/test/smile_cat.jpg`](scr/data/test/smile_cat.jpg).
 
 | Original | Edge Detecting |
 | :--: | :--: |
